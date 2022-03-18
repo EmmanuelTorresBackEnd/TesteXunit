@@ -1,0 +1,118 @@
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.exe
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.deps.json
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\ref\GameApi.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\GameApi.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\scopedcss\bundle\GameApi.styles.css
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\staticwebassets\GameApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\ref\GameApi.dll
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.pdb
+C:\Users\Administrator\Desktop\GameApi\GameApi\obj\Debug\net5.0\GameApi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GameApi\GameApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.exe
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.deps.json
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\GameApi.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Moq.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\scopedcss\bundle\GameApi.styles.css
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\staticwebassets\GameApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\refint\GameApi.dll
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.pdb
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\GameApi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DEV BACK-END EAD\GameApi\GameApi\obj\Debug\net5.0\ref\GameApi.dll

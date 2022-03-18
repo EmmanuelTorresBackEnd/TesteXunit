@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a51af7e-2e73-40cb-97c0-b400ebdfd155": {
+      "ProjectGuid": "7a51af7e-2e73-40cb-97c0-b400ebdfd155",
+      "DisplayName": "GameApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
